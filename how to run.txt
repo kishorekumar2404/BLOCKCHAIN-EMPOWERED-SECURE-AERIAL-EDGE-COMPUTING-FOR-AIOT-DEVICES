@@ -1,0 +1,33 @@
+User Manual
+
+
+1. Install Jdk1.4
+2. Install Jdk1.7
+3. Install Mysql 5.5.1 (Whike installation give password as 'root')
+4. Install Mysql GUI
+5. Install Netbeans 7.2
+6. Copy the project folder and paste the same in E:\ drive (outside not inside folder)
+7. Start --> All Programs --> Mysql Administrator -
+   Connection not needed
+  Server host : localhost
+  username : root
+  password : root
+ click on OK 
+
+8. Select Restore --> open back up file -->  browse and select the db with name 'NewProject........' ( within the project folder) --> Click on Start Restore.
+9. Open Netbeans7.2 
+10. File Open Project--> select projet folder--> open project
+11. Right Click project --> properties -->libraries--> add external jar file-->  select mysql connector jar within the project folder.
+12. expand src (by clicking on '+' in front of src
+13. right click on boomer_home.java --- Run file
+
+
+
+
+ 
+
+
+
+
+
+ 
